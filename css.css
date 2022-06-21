@@ -1,10 +1,6 @@
-html{
-  margin-top: 200px;
-}
-
 form{
   width: 800px;
-  margin: 150px auto 0 auto;
+  margin: 350px auto 0 auto;
   text-align: center;
 }
 
@@ -26,6 +22,7 @@ input{
   height: 120px;
   margin: 30px 0;
   font-size: 80px;
+  text-align: right;
 }
 
 button{
