@@ -1,0 +1,33 @@
+form{
+  width: 200px;
+  margin: 0 auto;
+  margin-top: 20px;
+  text-align: center;
+}
+
+h1{
+  width: 500px;
+  text-align:left;
+  margin: 0 auto;
+  background-color: pink;
+}
+
+button{
+float: right;
+}
+
+input{
+  width: 200px;
+  height: 30px;
+  margin: 15px 0;
+  font-size: 20px;
+}
+
+button{
+  width: 40px;
+  height: 30px;
+}
+
+a{
+  font-size: 20px;
+}
