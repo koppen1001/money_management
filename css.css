@@ -1,12 +1,12 @@
 form{
-  width: 100%;
+  width: 200px;
   margin: 0 auto;
   margin-top: 20px;
   text-align: center;
 }
 
 h1{
-  width: 100%;
+  width: 500px;
   text-align:left;
   margin: 0 auto;
   background-color: pink;
@@ -14,7 +14,6 @@ h1{
 
 button{
 float: right;
-margin-right: 25%;
 }
 
 input{
@@ -25,7 +24,7 @@ input{
 }
 
 button{
-  width: 40px;
+  width: 50px;
   height: 30px;
 }
 
